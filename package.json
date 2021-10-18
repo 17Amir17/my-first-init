@@ -1,0 +1,22 @@
+{
+  "name": "npm-git-cl",
+  "version": "1.0.0",
+  "description": "Testing command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/17Amir17/my-first-init.git"
+  },
+  "author": "Amir Angel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/17Amir17/my-first-init/issues"
+  },
+  "homepage": "https://github.com/17Amir17/my-first-init#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
